@@ -1,0 +1,21 @@
+main:
+  - title: ""
+    url: ""
+
+sidebarnav:
+  - title: "..."
+    children:
+      - title: "Github"
+        url: "https://github.com/leibniz-hbi/Social-Media-Observatory"
+      - title: "Support"
+        url: "https://github.com/Leibniz-HBI/Social-Media-Observatory/issues"
+      - title: "About"
+        url: "https://smo.leibniz-hbi.de/about/"
+  - title: "Projects"
+    children:
+      - title: "Wiki"
+        url: /2025/08/19/SHK.html
+      - title: "DBöS"
+        url: /2025/08/19/SHK.html
+      - title: "..."
+        url: /2025/08/19/SHK.html
