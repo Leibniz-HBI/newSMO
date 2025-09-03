@@ -40,6 +40,12 @@ defaults:
       header:
         overlay_image: /assets/images/coding1.jpg
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
 paginate: 5
 
@@ -47,6 +53,9 @@ paginate: 5
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+include: ["_pages"]
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
