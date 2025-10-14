@@ -18,9 +18,11 @@ sidebarnav:
   - title: "Resources"
     children:
       - title: "Wiki"
-        url: /wiki/
+        #url: /wiki/
+        url: https://smo-wiki.leibniz-hbi.de/
       - title: "DBöS"
-        url: /dbos/
+        #url: /dbos/
+        url: https://github.com/Leibniz-HBI/DBoeS-data
       - title: "Datasets"
         url: /datasets/
       - title: "Courses"
