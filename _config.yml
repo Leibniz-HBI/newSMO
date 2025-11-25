@@ -30,6 +30,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 logo: "/assets/images/logo.png"
+
+collections:
+  wiki:
+    output: true
+    permalink: /:collection/:path/
+
+
 defaults:
   - scope:
       path: ""
@@ -46,7 +53,18 @@ defaults:
       path: ""
       type: pages
     values:
+      sidebar:
+        nav: "sidebarnav"
       layout: single
+  # _wiki
+  - scope:
+      path: "_wiki"
+      type: wiki
+    values:
+      sidebar:
+        nav: "wikinav"
+      layout: single
+      tagline: ""
 
 paginate: 5
 

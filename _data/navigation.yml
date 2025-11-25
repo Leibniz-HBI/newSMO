@@ -6,28 +6,140 @@ sidebarnav:
   - title: "The SMO"
     children:
       - title: "News"
-        url: /news/
+        url: "https://smo.leibniz-hbi.de/"
       - title: "About"
         url: /about/
       - title: "Team"
         url: /team/
-      - title: "Publications"
-        url: /publications/
+      #- title: "Publications"
+      #  url: /tag/publication/
       - title: "Support"
-        url: /support/
+        url: https://github.com/Leibniz-HBI/Social-Media-Observatory/issues
   - title: "Resources"
     children:
-      - title: "Wiki"
+      #- #title: "Wiki"
         #url: /wiki/
-        url: https://smo-wiki.leibniz-hbi.de/
+        #url: https://smo-wiki.leibniz-hbi.de/
       - title: "DBöS"
-        #url: /dbos/
-        url: https://github.com/Leibniz-HBI/DBoeS-data
-      - title: "Datasets"
-        url: /datasets/
-      - title: "Courses"
-        url: /courses/
-      - title: "Tools"
-        url: /tools/
+        url: /dbos/
+        #url: https://github.com/Leibniz-HBI/DBoeS-data
+      #- title: "Datasets"
+      #  url: /datasets/
+      #- title: "Courses"
+      #  url: /courses/
+      #- title: "Tools"
+      #  url: /tools/
       - title: "Github"
-        url: /github/
+        url: https://github.com/Leibniz-HBI/Social-Media-Observatory
+  - title: "The SMO Wiki"
+    children:
+      - title: "Welcome to the SMO Wiki"
+        url: /welcome-to-the-wiki/
+
+wikinav:
+  - title: "The SMO"
+    children:
+      - title: "News"
+        url: "https://smo.leibniz-hbi.de/"
+      - title: "About"
+        url: /about/
+      - title: "Team"
+        url: /team/
+      #- title: "Publications"
+      #  url: /tag/publication/
+      - title: "Support"
+        url: "https://github.com/Leibniz-HBI/Social-Media-Observatory/issues"
+  - title: "Resources"
+    children:
+      #- #title: "Wiki"
+        #url: /wiki/
+        #url: https://smo-wiki.leibniz-hbi.de/
+      - title: "DBöS"
+        url: /dbos/
+        #url: https://github.com/Leibniz-HBI/DBoeS-data
+      #- title: "Datasets"
+      #  url: /datasets/
+      #- title: "Courses"
+      #  url: /courses/
+      #- title: "Tools"
+      #  url: /tools/
+      - title: "Github"
+        url: https://github.com/Leibniz-HBI/Social-Media-Observatory
+  - title: "The SMO Wiki"
+    children:
+    - title: "Welcome to the SMO Wiki"
+      url: /welcome-to-the-wiki/
+  - title: "Data Collection Tools"
+    children:
+    - title: "Instagram Tools"
+      url: /instagram-tools/
+    - title: "Twitter Tools"
+      url: /twitter-tools/
+    - title: "Wikipedia Tools"
+      url: /wikipedia-tools
+    - title: "Facebook Tools"
+      url: /facebook-tools/
+    - title: "YouTube Tools"
+      url: /youtube-tools/
+    - title: "Telegram Tools"
+      url: /telegram-tools/
+    - title: "Smaller Platform Tools"
+      url: /smaller-platform-tools/
+    - title: "Cross-Platform Tools"
+      url: /cross-platform-tools/
+    - title: "General News Scrapers"
+      url: /general-news-scrapers/
+    - title: "Secure Storage and Archiving"
+      url: /secure-storage-and-archiving/
+    - title: "Data Anonymization Tools"
+      url: /data-anonymization-tools/
+    - title: "Data Publishing"
+      url: /data-publishing/
+  - title: "Analysis Tools"
+    children:
+    - title: "Data preparation and cleaning"
+      url: /data-preparation-and-cleaning/
+    - title: "Network Analysis"
+      url: /network-analysis/
+    - title: "Content Analysis"
+      url: /content-analysis/
+    - title: "Statistics"
+      url: /statistics/
+    - title: "Visualisation"
+      url: /visualisation/
+    - title: "Location and Geodata"
+      url: /location-and-geodata/
+  - title: "Research Ethis and Law"
+    children:
+    - title: "Helpful Resources"
+      url: /helpful/resources/
+    - title: "SOCRATES Ethics Guide"
+      url: /socrates-ethics-guide/
+  - title: "Knowledge Base"
+    children:
+    - title: "Starter Workshops"
+      url: /starter-workshops/
+    - title: "Courses"
+      url: /courses/
+    - title: "Case Studies"
+      url: /case-studies/
+    - title: "Datasets"
+      url: /datasets/
+    - title: "Projects"
+      url: /projects/
+  - title: "HowTos"
+    children:
+    - title: "Shiny Tutorial"
+      url: /shiny-tutorial/
+    - title: "Windows Linux Subsystem dev setup"
+      url: /windows-linux-subsystem-dev-setup/
+    - title: "macOS dev setup for Python"
+      url: /macos-dev-setup-for-python/
+    - title: "How to work in Jupyter Lab"
+      url: /how-to-work-in-jupyter-lab/
+    - title: "Twitter Academic API Track Application"
+      url: /twitter-academic-api-track-application/
+    - title: "How to setup and use SSH"
+      url: /how-to-setup-and-use-ssh/
+    - title: "How to use and maintain this wiki"
+      url: /how-to-use-and-maintain-this-wiki"

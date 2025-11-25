@@ -1,7 +1,10 @@
 ---
 layout: single
 title: Conceptual paper on the SMO published in Publizistik
-tags: [infrastructure, paper]
+tags:
+    - infrastructure
+    - paper
+    - publication
 author: janhinrikschmidt
 excerpt_separator: <!--more-->
 header:
