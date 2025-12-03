@@ -93,8 +93,6 @@ wikinav:
       url: /secure-storage-and-archiving/
     - title: "Data Anonymization Tools"
       url: /data-anonymization-tools/
-    - title: "Data Publishing"
-      url: /data-publishing/
   - title: "Analysis Tools"
     children:
     - title: "Data preparation and cleaning"
@@ -107,12 +105,10 @@ wikinav:
       url: /statistics/
     - title: "Visualisation"
       url: /visualisation/
-    - title: "Location and Geodata"
-      url: /location-and-geodata/
   - title: "Research Ethis and Law"
     children:
     - title: "Helpful Resources"
-      url: /helpful/resources/
+      url: /helpful-resources/
     - title: "SOCRATES Ethics Guide"
       url: /socrates-ethics-guide/
   - title: "Knowledge Base"
@@ -121,12 +117,8 @@ wikinav:
       url: /starter-workshops/
     - title: "Courses"
       url: /courses/
-    - title: "Case Studies"
-      url: /case-studies/
     - title: "Datasets"
       url: /datasets/
-    - title: "Projects"
-      url: /projects/
   - title: "HowTos"
     children:
     - title: "Shiny Tutorial"
@@ -142,4 +134,4 @@ wikinav:
     - title: "How to setup and use SSH"
       url: /how-to-setup-and-use-ssh/
     - title: "How to use and maintain this wiki"
-      url: /how-to-use-and-maintain-this-wiki"
+      url: /how-to-use-and-maintain-this-wiki/
