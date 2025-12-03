@@ -1,7 +1,10 @@
 ---
-layout: single
+layout: wikipage
 title: Courses
 permalink: /courses/
+tags:
+- tag1
+- tag2
 ---
 # Courses
 

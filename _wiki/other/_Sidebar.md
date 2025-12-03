@@ -1,6 +1,6 @@
 [\[pretty\]](https://smo-wiki.leibniz-hbi.de/) <-> [\[edge\]](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki/)
 
-# Data Collection Tools
+# Data Collection Toolsss
 
 - [Instagram-Tools](Instagram-Tools)
 - [Twitter-Tools](Twitter-Tools)
@@ -13,7 +13,7 @@
 - [General News Scrapers](General-News-Scrapers)
 - [Secure Storage and Archiving](Secure-Storage-and-Archiving)
 - [Data Anonymization Tools](Data-Anonymization-Tools)
-- [Data Publishing](Data-Publishing)
+- [Data Publishing2](Data-Publishing)
 
 # Analysis Tools
 
