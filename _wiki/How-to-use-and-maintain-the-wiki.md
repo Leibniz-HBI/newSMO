@@ -5,6 +5,8 @@ permalink: /how-to-use-and-maintain-this-wiki/
 ---
 # How to use and maintain the wiki
 
+_This wiki article was last updated on March 18th, 2024, and may contain outdated information._
+
 # How to search this Wiki
 
 The search function is a bit hidden.

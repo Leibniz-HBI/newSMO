@@ -5,6 +5,8 @@ permalink: /network-analysis/
 ---
 # Network Analysis
 
+_This wiki article was last updated on April 22th, 2022, and may contain outdated information._
+
 # About 
 
 So you want to do network analysis? Great! Fortunately, there are already a lot of great resources to learn about it out there. Our favourite ones are listed here. Let us know if we should add more.

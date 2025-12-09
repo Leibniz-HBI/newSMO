@@ -5,6 +5,8 @@ permalink: /facebook-tools/
 ---
 # Facebook Tools
 
+_This wiki article was last updated on May 10th, 2022, and may contain outdated information._
+
 # Facebook Tool List
 
 

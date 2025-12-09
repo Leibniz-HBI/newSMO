@@ -5,6 +5,8 @@ permalink: /smaller-platform-tools/
 ---
 # Smaller Platform Tools
 
+_This wiki article was last updated on March 27th, 2023, and may contain outdated information._
+
 # GAB
 
 ## [garc](https://github.com/ChrisStevens/garc)

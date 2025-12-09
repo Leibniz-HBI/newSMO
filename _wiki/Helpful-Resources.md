@@ -5,6 +5,8 @@ permalink: /helpful-resources/
 ---
 # Helpful Resources
 
+_This wiki article was last updated on May 4th, 2021, and may contain outdated information._
+
 # Resources for Research Ethics and Law Questions
 
 We are currently writing an ethics guide for researching online communication and online media data. Until publication of the guide, please find below some helpful resources to conduct ethical and legal research in this area: 

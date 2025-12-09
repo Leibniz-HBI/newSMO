@@ -5,6 +5,8 @@ permalink: /wiki/datasets/
 ---
 # Datasets
 
+_This wiki article was last updated on June 29th, 2023, and may contain outdated information._
+
 Over the course of the build up of the SMO we present a growing collection of useful (social) media datasets. These will comprise Open Access Datasets and Access on Request Datasets, both collected by ourselves as well as collections by other projects.
 
 ***

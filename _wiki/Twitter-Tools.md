@@ -5,6 +5,8 @@ permalink: /twitter-tools/
 ---
 # Twitter Tools
 
+_This wiki article was last updated on February 23rd, 2023, and may contain outdated information._
+
 # Twitter Tool List
 
 This list provides an overview of useful data collection tools that can be used for research on Twitter. If you face problems or issues with one of the applications on the list, feel free to post an [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues). It helps us to maintain this list.

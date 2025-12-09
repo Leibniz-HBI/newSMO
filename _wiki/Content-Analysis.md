@@ -6,6 +6,8 @@ permalink: /content-analysis/
 
 # Content Analysis
 
+_This wiki article was last updated on August 19th, 2022, and may contain outdated information._
+
 # Text Mining and Content Analysis with R
 
 This list contains links to third party tutorial collections:
