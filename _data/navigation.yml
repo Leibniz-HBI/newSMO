@@ -6,7 +6,7 @@ sidebarnav:
   - title: "The SMO"
     children:
       - title: "News"
-        url: "https://smo.leibniz-hbi.de/"
+        url: "/"
       - title: "About"
         url: /about/
       - title: "Team"
@@ -23,8 +23,8 @@ sidebarnav:
       - title: "DBöS"
         url: /dbos/
         #url: https://github.com/Leibniz-HBI/DBoeS-data
-      #- title: "Datasets"
-      #  url: /datasets/
+      - title: "Datasets"
+        url: /datasets/
       #- title: "Courses"
       #  url: /courses/
       #- title: "Tools"
@@ -33,14 +33,14 @@ sidebarnav:
         url: https://github.com/Leibniz-HBI/Social-Media-Observatory
   - title: "The SMO Wiki"
     children:
-      - title: "Welcome to the SMO Wiki"
-        url: /welcome-to-the-wiki/
+      - title: "Main page"
+        url: /wiki/
 
 wikinav:
   - title: "The SMO"
     children:
       - title: "News"
-        url: "https://smo.leibniz-hbi.de/"
+        url: "/"
       - title: "About"
         url: /about/
       - title: "Team"
@@ -67,8 +67,8 @@ wikinav:
         url: https://github.com/Leibniz-HBI/Social-Media-Observatory
   - title: "The SMO Wiki"
     children:
-    - title: "Welcome to the SMO Wiki"
-      url: /welcome-to-the-wiki/
+    - title: "Main page"
+      url: /wiki/
   - title: "Data Collection Tools"
     children:
     - title: "Instagram Tools"

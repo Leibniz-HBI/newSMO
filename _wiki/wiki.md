@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Welcome to the SMO Wiki
-permalink: /welcome-to-the-wiki/
+permalink: /wiki/
 ---
 
 # Welcome to the Social Media Observatory wiki!
