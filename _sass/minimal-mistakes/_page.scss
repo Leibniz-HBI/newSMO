@@ -33,6 +33,10 @@ body {
   flex: 1 0 auto;
 }
 
+.wikipage p {
+  font-size: 0.9.em;
+}
+
 .page {
   @include breakpoint($large) {
     float: inline-end;

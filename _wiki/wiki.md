@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: wikipage
 title: Welcome to the SMO Wiki
 permalink: /wiki/
 ---

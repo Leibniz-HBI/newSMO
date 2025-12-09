@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Datasets
-permalink: /datasets/
+permalink: /wiki/datasets/
 ---
 # Datasets
 

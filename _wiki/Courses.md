@@ -1,7 +1,7 @@
 ---
 layout: wikipage
 title: Courses
-permalink: /courses/
+permalink: /wiki/courses/
 tags:
 - tag1
 - tag2
