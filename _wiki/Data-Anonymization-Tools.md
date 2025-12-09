@@ -5,6 +5,8 @@ permalink: /data-anonymization-tools/
 ---
 # Data Anonymization Tools
 
+_This wiki article was last updated on May 10th, 2022, and may contain outdated information._
+
 # Data Anonymization Tools
 
 Personal data in the wrong hands can endanger the security of individuals. To protect personal data we anonymize or pseudonymize it. Data anonymization is a process of altering identifiable data such as name, gender, age, or other personal information by replacing it with sets of data that make it nearly impossible for every actor to trace the data back to their original owners. Pseudonymization makes this nearly impossible only for unauthorized actors.

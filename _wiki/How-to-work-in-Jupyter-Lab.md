@@ -5,6 +5,8 @@ permalink: /how-to-work-in-jupyter-lab/
 ---
 # How to work in Jupyter Lab
 
+_This wiki article was last updated on April 1st, 2021, and may contain outdated information._
+
 # What is Jupyter Lab?
 
 Jupyter Lab is an interface for interactive programming and data analysis that runs in your browser. If you're coming from R think about it as a browser-based R-Studio for all kinds of languages, but mostly used for Python.

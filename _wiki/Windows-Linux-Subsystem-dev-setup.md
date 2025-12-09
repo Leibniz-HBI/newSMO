@@ -5,6 +5,8 @@ permalink: /windows-linux-subsystem-dev-setup/
 ---
 # Windows Linux Subsystem dev setup
 
+_This wiki article was last updated on May 10th, 2022, and may contain outdated information._
+
 #  How to setup a Python development environment on Windows 10?
 
 This is an opinionated guide for a science-oriented development setup on Windows 10.

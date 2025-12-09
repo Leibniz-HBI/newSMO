@@ -5,6 +5,8 @@ permalink: /statistics/
 ---
 # Statistics
 
+_This wiki article was last updated on April 22th, 2022, and may contain outdated information._
+
 # R or Python?
 
 One of the first major decisions to make when getting into data analysis is about which language to choose. Python and R are the widely used programming languages in the field of statistics and data science and both are great choices. Below you will find some condensed information about their application for statistics. However, you also might want to have a look at this [infographic](https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis) by Datacamp, as it provides some helpful general guidance about both languages and might be a good starting point to inform yourself.

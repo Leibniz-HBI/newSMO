@@ -5,6 +5,8 @@ permalink: /wikipedia-tools/
 ---
 # Wikipedia Tools
 
+_This wiki article was last updated on January 14th, 2021, and may contain outdated information._
+
 # Wikipedia Tools
 
 Welcome to the Wikipedia Tools. 

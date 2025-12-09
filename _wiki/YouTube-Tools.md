@@ -5,6 +5,8 @@ permalink: /youtube-tools/
 ---
 # YouTube Tools
 
+_This wiki article was last updated on February 28th, 2023, and may contain outdated information._
+
 # YouTube Tool List
 
 

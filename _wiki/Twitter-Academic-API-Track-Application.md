@@ -5,6 +5,8 @@ permalink: /twitter-academic-api-track-application/
 ---
 # Twitter Academic API Track Application
 
+_This wiki article was last updated on April 9th, 2021, and may contain outdated information._
+
 # How to apply for a Twitter API Academic Research access
 
 1. Check whether you're eligible for this API Track:

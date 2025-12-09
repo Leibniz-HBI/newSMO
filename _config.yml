@@ -65,6 +65,7 @@ defaults:
         nav: "wikinav"
       layout: single
       tagline: ""
+      show_date: false
 
 paginate: 5
 

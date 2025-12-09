@@ -5,6 +5,8 @@ permalink: /visualisation/
 ---
 # Visualisation
 
+_This wiki article was last updated on June 10th, 2022, and may contain outdated information._
+
 # About
 You have collected your data and now you want to visualize it? Here is a list of different visualisation tools for beginners and advanced users.
 

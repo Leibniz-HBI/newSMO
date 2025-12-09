@@ -5,6 +5,8 @@ permalink: /courses/
 ---
 # Courses
 
+_This wiki article was last updated on December 19th, 2022, and may contain outdated information._
+
 Here we curate a collection of skill-building courses that we can recommend.
 
 ## Table of contents

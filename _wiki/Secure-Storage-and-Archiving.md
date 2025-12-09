@@ -5,6 +5,8 @@ permalink: /secure-storage-and-archiving/
 ---
 # Secure Storage and Archiving
 
+_This wiki article was last updated on June 10th, 2022, and may contain outdated information._
+
 # About
 
 We recommend encrypted storage for all remotely stored data. If possible, for security, sustainability, and accessibility reasons, we recommend to use encryption software that is
