@@ -11,63 +11,27 @@ sidebarnav:
         url: /about/
       - title: "Team"
         url: /team/
-      #- title: "Publications"
-      #  url: /tag/publication/
+      - title: "Publications"
+        url: /tags/publication
       - title: "Support"
         url: https://github.com/Leibniz-HBI/Social-Media-Observatory/issues
   - title: "Resources"
     children:
-      #- #title: "Wiki"
-        #url: /wiki/
-        #url: https://smo-wiki.leibniz-hbi.de/
       - title: "DBöS"
         url: /dbos/
-        #url: https://github.com/Leibniz-HBI/DBoeS-data
-      - title: "Datasets"
-        url: /datasets/
-      #- title: "Courses"
-      #  url: /courses/
-      #- title: "Tools"
-      #  url: /tools/
-      - title: "Github"
-        url: https://github.com/Leibniz-HBI/Social-Media-Observatory
-  - title: "The SMO Wiki"
-    children:
-      - title: "Main page"
-        url: /wiki/
-
-wikinav:
-  - title: "The SMO"
-    children:
-      - title: "News"
-        url: "/"
-      - title: "About"
-        url: /about/
-      - title: "Team"
-        url: /team/
-      #- title: "Publications"
-      #  url: /tag/publication/
-      - title: "Support"
-        url: "https://github.com/Leibniz-HBI/Social-Media-Observatory/issues"
-  - title: "Resources"
-    children:
-      #- #title: "Wiki"
-        #url: /wiki/
-        #url: https://smo-wiki.leibniz-hbi.de/
-      - title: "DBöS"
-        url: /dbos/
-        #url: https://github.com/Leibniz-HBI/DBoeS-data
       #- title: "Datasets"
       #  url: /datasets/
-      #- title: "Courses"
-      #  url: /courses/
-      #- title: "Tools"
-      #  url: /tools/
       - title: "Github"
         url: https://github.com/Leibniz-HBI/Social-Media-Observatory
+
+linktowiki:
+  - title: "The SMO Wiki"
+    url: /wiki/
+
+wikinav:
   - title: "The SMO Wiki"
     children:
-    - title: "Main page"
+    - title: "Welcome to the SMO Wiki"
       url: /wiki/
   - title: "Data Collection Tools"
     children:

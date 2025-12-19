@@ -42,19 +42,19 @@ defaults:
       path: ""
     values:
       sidebar:
-        nav: "sidebarnav"
+        - nav: "sidebarnav"
+        - nav: "linktowiki"
       head:
         nav: "main"
       header:
         overlay_image: /assets/images/coding1.jpg
       show_date: true
+      tagline: ""
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      sidebar:
-        nav: "sidebarnav"
       layout: single
   # _wiki
   - scope:
@@ -62,7 +62,8 @@ defaults:
       type: wiki
     values:
       sidebar:
-        nav: "wikinav"
+        - nav: "sidebarnav"
+        - nav: "wikinav"
       layout: single
       tagline: ""
       show_date: false
