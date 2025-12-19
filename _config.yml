@@ -20,15 +20,15 @@
 
 title: Welcome to the Social Media Observatory
 masthead_title: Social Media Observatory
-email: your-email@example.com
+email: smo@leibniz-hbi.de
 description: >- # this means to ignore newlines until "baseurl:"
   The Social Media Observatory (SMO) at the FGZ site in Hamburg collects and 
   analyzes data from social media platforms in order to examine discourses 
   and debates relevant to social cohesion.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://smo.leibniz-hbi.de/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  
 logo: "/assets/images/logo.png"
 
 collections:
