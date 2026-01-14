@@ -72,8 +72,10 @@ paginate: 5
 
 # Build settings
 theme: minimal-mistakes-jekyll
+remote-theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 include: ["_pages"]
 
