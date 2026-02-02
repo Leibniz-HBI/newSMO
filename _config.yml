@@ -25,7 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Social Media Observatory (SMO) at the FGZ site in Hamburg collects and 
   analyzes data from social media platforms in order to examine discourses 
   and debates relevant to social cohesion.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://leibniz-hbi.github.io/newsmo" # the subpath of your site, e.g. /blog
+#url: "https://leibniz-hbi.github.io/"
 url: "https://smo.leibniz-hbi.de/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
