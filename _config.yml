@@ -26,7 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   analyzes data from social media platforms in order to examine discourses 
   and debates relevant to social cohesion.
 #url: "https://leibniz-hbi.github.io/"
-url: "https://smo.leibniz-hbi.de/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://smo.leibniz-hbi.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 logo: "/assets/images/logo.png"
