@@ -118,7 +118,7 @@ author_profile: false
       {% for tag in post.tags %}
         {% unless tag == "publication" %}
           {% assign tag_slug = tag | slugify %}
-          <a class="publication-tag" href="{{ '/tags/' | append: tag_slug | append: '/' | relative_url }}">{{ tag }}</a>
+          <a class="publication-tag" href="{{ '/tags/#' | append: tag_slug | relative_url }}">{{ tag }}</a>
         {% endunless %}
       {% endfor %}
       </div>
@@ -155,7 +155,7 @@ author_profile: false
       {% for tag in post.tags %}
         {% unless tag == "publication" %}
           {% assign tag_slug = tag | slugify %}
-          <a class="publication-tag" href="{{ '/tags/' | append: tag_slug | append: '/' | relative_url }}">{{ tag }}</a>
+          <a class="publication-tag" href="{{ '/tags/#' | append: tag_slug | relative_url }}">{{ tag }}</a>
         {% endunless %}
       {% endfor %}
       </div>
