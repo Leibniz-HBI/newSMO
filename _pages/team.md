@@ -9,21 +9,25 @@ feature_row_team:
   - image_path: /assets/images/Teaser_Azade-Kakavand-2.jpg
     title: "Dr. Azade Kakavand"
     excerpt: "Postdoc computerbasierte Methoden [(more)](https://leibniz-hbi.de/team/azade-kakavand-m-a/)"
+  - image_path: /assets/images/Tet-Teaser.jpg
+    title: "Tetyana Turiy, M.Sc."
+    excerpt: "Junior Researcher Social Media Observatory [(more)](https://leibniz-hbi.de/team/tetyana-turiy/)"
   - image_path: /assets/images/Jan-Hinrik-Schmidt-Teaser.jpg
     title: "PD Dr. Jan-Hinrik Schmidt"
     excerpt: "Senior Researcher digitale Medien und politische Kommunikation [(more)](https://leibniz-hbi.de/team/jan-hinrik-schmidt/)"
-  - image_path: /assets/images/Philipp-Kessling-Teaser.jpg
-    title: "Philipp Kessling, M.A."
-    excerpt: "Junior Researcher Computational Social Science [(more)](https://leibniz-hbi.de/team/philipp-kessling/)"
   - image_path: /assets/images/Jan-Rau-Teaser.jpg
     title: "Jan Rau, M.Sc."
     excerpt: "Junior Researcher Internetforschung [(more)](https://leibniz-hbi.de/team/jan-rau/)"
-  - image_path: /assets/images/Moritz-Fuerneisen-Teaser.jpg
-    title: "Moritz Fürneisen, M.Sc."
-    excerpt: "Junior Researcher Computational Social Science [(more)](https://leibniz-hbi.de/team/moritz-fuerneisen/)"
+feature_row_assoc:
+  - image_path: /assets/images/Philipp-Kessling-Teaser.jpg
+    title: "Philipp Kessling, M.A."
+    excerpt: "Junior Researcher Computational Social Science [(more)](https://leibniz-hbi.de/team/philipp-kessling/)"
   - image_path: /assets/images/Teaser_Smita-Bhattacharya-2048x1317.jpg
     title: "Smita Bhattacharya, M.Sc."
     excerpt: "Junior Researcher Computational Social Science [(more)](https://leibniz-hbi.de/team/smita-bhattacharya/)"
+  - image_path: /assets/images/Moritz-Fuerneisen-Teaser.jpg
+    title: "Moritz Fürneisen, M.Sc."
+    excerpt: "Junior Researcher Computational Social Science [(more)](https://leibniz-hbi.de/team/moritz-fuerneisen/)"
 feature_row_former:
   - image_path: /assets/images/Felix-Muench-Teaser.jpg
     title: "Dr. Felix Victor Münch"
@@ -36,6 +40,10 @@ feature_row_former:
 # Team
 
 {% include feature_row id="feature_row_team" %}
+
+# Associated members
+
+{% include feature_row id="feature_row_assoc" %}
 
 # Former team members
 
