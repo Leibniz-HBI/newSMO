@@ -16,6 +16,9 @@ authors: Jan Rau, Christoph Richter, and Daniel Wehrend
 citation: Rau, J., Richter, C., & Wehrend, D. (2025). „Flood the Zone with Shit“ – Elon Musk, die AfD und das Agenda-Setting der radikalen Rechten im Bundestagswahlkampf 2025. Zusammenhalt begreifen.
 publication_url: https://doi.org/10.58079/13b77
 show_date: false
+header:
+    image: /assets/images/publication.png
+    teaser: /assets/images/posts/publications.png
 excerpt_separator: <!--more-->
 doi: 10.58079/13b77
 ---
