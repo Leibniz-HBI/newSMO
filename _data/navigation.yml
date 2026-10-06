@@ -19,8 +19,8 @@ sidebarnav:
     children:
       - title: "DBöS"
         url: /dbos/
-      #- title: "Datasets"
-      #  url: /datasets/
+      - title: "Datasets"
+        url: https://zenodo.org/communities/smo
       - title: "Github"
         url: https://github.com/Leibniz-HBI/Social-Media-Observatory
 
